@@ -1,16 +1,18 @@
-### Hi there 👋
+### Does my profile feel empty to you?
+I do most of my work over on [GitLab](https://gitlab.com/microgravitydan)! I like it over there, but I will mirror more and more of my projects over here as I make them public.
 
-<!--
-**microgravitydan/microgravitydan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently open for work! Contact me if you are interested!
 
-Here are some ideas to get you started:
+<!-- ### Values -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ### Skills -->
+
+<!-- 🦀 -->
+
+### Contact
+* GitLab: [@microgravitydan](https://gitlab.com/microgravitydan)
+* LinkedIn: [dan-manley](https://www.linkedin.com/in/dan-manley/)
+* Indeed: [Dan Manley](https://my.indeed.com/p/danm-obp1x52)
+* Mastodon: <a rel="me" href="https://mastodon.social/@microgravitydan">@microgravitydan</a>
+
+<!-- TODO: Can I put favicons on each of these? -->
