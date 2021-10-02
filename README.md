@@ -1,8 +1,6 @@
 ### Does my profile feel empty to you?
 I do most of my work over on [GitLab](https://gitlab.com/microgravitydan)! I like it over there, but I will mirror more and more of my projects over here as I make them public.
 
-I am currently open for work! Contact me if you are interested!
-
 <!-- ### Values -->
 
 <!-- ### Skills -->
